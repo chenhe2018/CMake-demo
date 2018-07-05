@@ -1,8 +1,10 @@
 # cmake demos
 
-## url
+## reference url
 
 www.hahack.com/codes/cmake/
+
+https://github.com/wzpan/cmake-demo
 
 ## cmake compile
 
